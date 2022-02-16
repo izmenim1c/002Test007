@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">002Test007</string>
+    <string name="task">task</string>
+    <string name="settings">settings</string>
 </resources>
