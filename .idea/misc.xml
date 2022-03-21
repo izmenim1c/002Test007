@@ -7,10 +7,13 @@
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1105" />
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/layout/app_bar_main.xml" value="0.11277173913043478" />
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/layout/content_main.xml" value="0.11277173913043478" />
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/layout/fragment_task.xml" value="0.1" />
+        <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/layout/nav_header_main.xml" value="0.11277173913043478" />
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/menu/menu.xml" value="0.20052083333333334" />
+        <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/menu/menu_drawable.xml" value="0.1" />
         <entry key="..\:/sam/Work/AndroidStudioProjects/002Test007/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1105" />
       </map>
     </option>
